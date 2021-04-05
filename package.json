@@ -1,0 +1,24 @@
+{
+  "name": "project-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe",
+  "main": "script2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safeplace12345/Project-Tic-Tac-Toe.git"
+  },
+  "author": "Ghost <safeplace12345@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safeplace12345/Project-Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/safeplace12345/Project-Tic-Tac-Toe#readme",
+  "devDependencies": {
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
